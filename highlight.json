@@ -2,14 +2,14 @@
     "categories": [{
             "name": "Livetv",
             "channels": [{
-                    "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
-                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
-		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
+                    "sources": ["https://vda.dirgventures.net/UpFiles/2024/12/26/51/294752/720p.m3u8"],
+                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
 		    "title": "AFF Championship",
-		    "teamAName":"Philippines",
-                    "teamBName":"Vietnam",
-		    "time": "4 - 5",
-		    "date": "18/12/2024"
+		    "teamAName":"Liverpool",
+                    "teamBName":"Leicester",
+		    "time": "3 - 1",
+		    "date": "27/12/2024"
                 }, {
                     "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/101664"],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
